@@ -1,0 +1,52 @@
+_repo: My-Private-Menageriefrom-The-Works-of-Theophile-Gautier-Volume-19_30760
+_version: 0.1.0
+contributor:
+  translator: &id001
+    agent_name: Sumichrast, Frederick C. de (Frederick Caesar de)
+    aliases:
+    - Sumichrast, F. C. de (Frederick Caesar de)
+    - Sumichrast, Frederic Cesar de
+    - De Sumichrast, Frederick C. (Frederick Caesar)
+    - Sumichrast, Frédéric César de
+    - Sumichrast, Frederick Caesar John Martin Samuel Roussy de
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '32866'
+    url: http://www.gutenberg.org/2009/agents/32866
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+  editor: *id001
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2009-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Animals -- Biography'
+- !lcsh 'Domestic animals'
+- !lcc 'QL'
+title: 'My Private Menagerie
+
+  from The Works of Theophile Gautier Volume 19'
+url: http://www.gutenberg.org/ebooks/30760
