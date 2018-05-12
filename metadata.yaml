@@ -32,6 +32,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30760#My-Private-Menageriefrom-The-Works-of-Theophile-Gautier-Volume-19
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2009-12-26'
 gutenberg_type: Text
